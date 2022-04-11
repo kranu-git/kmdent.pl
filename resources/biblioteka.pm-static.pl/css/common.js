@@ -1,1 +1,0 @@
-var menu_opened=false;function menu_open(){var a=document.getElementsByClassName("menu-content");a[0].style.display=menu_opened?"none":"block";menu_opened=!menu_opened};
